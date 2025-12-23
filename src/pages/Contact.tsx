@@ -12,24 +12,24 @@ const contactMethods = [
     icon: Phone,
     title: "Phone",
     description: "Mon-Sat, 9AM-6PM",
-    value: "+91 98765 43210",
-    link: "tel:+919876543210",
+    value: "+91 9941086999",
+    link: "tel:+91 9941084999",
     action: "Call Now",
   },
   {
     icon: Mail,
     title: "Email",
     description: "We reply within 24 hours",
-    value: "info@msbuildingsolutions.com",
-    link: "mailto:info@msbuildingsolutions.com",
+    value: "msbuildingsolutions79@gmail.com",
+    link: "mailto:msbuildingsolutions79@gmail.com",
     action: "Send Email",
   },
   {
     icon: MessageSquare,
     title: "WhatsApp",
     description: "Quick responses",
-    value: "+91 98765 43210",
-    link: "https://wa.me/919876543210",
+    value: "+91 9941086999,9941084999",
+    link: "https://wa.me/9941086999",
     action: "Chat Now",
   },
 ];
@@ -262,8 +262,8 @@ const Contact = () => {
                     <div>
                       <p className="font-body font-medium text-foreground">MS Building Solutions</p>
                       <p className="text-muted-foreground font-body text-sm">
-                        123 Industrial Area, Phase 2<br />
-                        New Delhi, India - 110001
+                        bhanur,lahariresort road Area, <br />
+                        patancheruvu,hyderabad India - 502305
                       </p>
                     </div>
                   </div>
@@ -283,7 +283,7 @@ const Contact = () => {
               {/* Map */}
               <div className="bg-card rounded-2xl overflow-hidden shadow-sm h-64">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224345.83923192776!2d77.06889754725782!3d28.52758200617607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1701234567890!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/place/ms+building+solutions/@17.4864391,78.1814328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcbef0023e6249f:0xaa52a9af11729b7a!8m2!3d17.486434!4d78.1840077!16s%2Fg%2F11x_rqgft0?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
