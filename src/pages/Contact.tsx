@@ -283,7 +283,7 @@ const Contact = () => {
               {/* Map */}
               <div className="bg-card rounded-2xl overflow-hidden shadow-sm h-64">
                 <iframe
-                  src="https://www.google.com/maps/place/ms+building+solutions/@17.4864391,78.1814328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcbef0023e6249f:0xaa52a9af11729b7a!8m2!3d17.486434!4d78.1840077!16s%2Fg%2F11x_rqgft0?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
+                  src="https://www.google.com/maps?q=F5PM+HM+MS+Building+Solutions,+Sheriguda,+Hyderabad,+Telangana+502305&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
