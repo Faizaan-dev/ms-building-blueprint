@@ -283,9 +283,9 @@ const Contact = () => {
               {/* Map */}
               <div className="bg-card rounded-2xl overflow-hidden shadow-sm h-64">
                 <iframe
-                  src="https://www.google.com/maps?q=F5PM+HM+MS+Building+Solutions,+Sheriguda,+Hyderabad,+Telangana+502305&output=embed"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.1665337999366!2d78.1814328!3d17.4864391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcbef0023e6249f%3A0xaa52a9af11729b7a!2sMS%20Building%20Solutions!5e0!3m2!1sen!2sin!4v1703401339599"
                   width="100%"
-                  height="100%"
+                  height="450%"
                   style={{ border: 0 }}
                   allowFullScreen
                   loading="lazy"
